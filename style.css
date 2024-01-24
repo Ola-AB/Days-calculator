@@ -11,6 +11,7 @@ body {
 	min-height: 100vh;
 	font-family: "Montserrat", sans-serif;
 	background-color: rgb(233, 233, 233);
+	margin-left: -430px;
 }
 
 .counter-app {
@@ -40,7 +41,7 @@ body {
 	right: 20px;
 	padding: 20px 30px;
 	font-size: 32px;
-	background-color: #304141;
+	background-color: #778585;
 	border: 1px solid black;
 	border-radius: 5px;
 	cursor: pointer;
